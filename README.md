@@ -2,7 +2,9 @@
 
 Projeto destinado a estudar blockchain.
 
-O método de estudo será implantar um blockchain em algumas linguagens:
+<img src="blocos.jpg" alt="drawing" height="300"/>
+
+O método de estudo será implantar um blockchain em algumas linguagens.
 
 JavaScript:
 
