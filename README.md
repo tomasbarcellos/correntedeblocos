@@ -2,7 +2,7 @@
 
 Projeto destinado a estudar blockchain.
 
-<img src="blocos.jpg" alt="drawing" height="300"/>
+<img src="blocos.jpg" alt="drawing" height="300" style="margin: 0% 0% 0% 30%;"/>
 
 O método de estudo será implantar um blockchain em algumas linguagens.
 
